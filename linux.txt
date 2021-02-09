@@ -1,0 +1,2 @@
+read write /sys/class/backlight/brightness
+read /sys/class/backlight/max_brightness
